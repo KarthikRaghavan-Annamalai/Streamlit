@@ -1,0 +1,10 @@
+# Streamlit Tutorial
+
+We will build an interactive webapp for the ML projects
+
+!pip install streamlit      # to install streamlit
+streamlit hello             # to check if streamlit is working
+
+create a py file
+
+streamlit run <py file>     # to run the streamlit application
